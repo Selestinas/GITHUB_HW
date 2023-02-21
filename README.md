@@ -1,2 +1,2 @@
-# gitbush_homework
+# skript
 Здесь домашние задания по Git Bush
