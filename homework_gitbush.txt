@@ -17,7 +17,7 @@ https://github.com/Selestinas?tab=repositories
 
 JSON
  4. Создать внешний репозиторий c названием JSON.
-‘’’Зайти на сайт github, нажать Repositories, New, ввести название Json.‘’’
+```Зайти на сайт github, нажать Repositories, New, ввести название Json.```
  5. Клонировать репозиторий JSON на локальный компьютер.
 1.Копировать "Code"
 2.Открыть gitbush, git clone > вставить ссылку
